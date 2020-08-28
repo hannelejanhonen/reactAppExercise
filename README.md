@@ -1,4 +1,5 @@
 # reactAppExercise
-This is an exercise how to create web app/website with react.js.
+This was an exercise how to create a simple web app/website with React.js, Bootstrap and React-Router-Bootstrap.
 
-A simple create-react-app setup with React-Router-Bootstrap
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
