@@ -1,5 +1,5 @@
 # reactAppExercise
-This was an exercise how to create a simple web app/website with 
+This was an exercise how to create a single page app (SPA) /website with 
 - React.js
 - Bootstrap and 
 - React-Router-Bootstrap. 
